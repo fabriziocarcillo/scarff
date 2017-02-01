@@ -10,7 +10,8 @@ A Docker image containing the tools needed to run a streaming fraud detection de
 https://hub.docker.com/r/fabriziocarcillo/scarff/
 
 You can follow the tutorial here:
-[![Alt text for your video](https://i.ytimg.com/vi/GaG9J5MvfD0/1.jpg?time=1485954219636)](https://www.youtube.com/watch?v=GaG9J5MvfD0) or just follow the commands of the docker hub link.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GaG9J5MvfD0" frameborder="0" allowfullscreen></iframe>
+or just follow the commands of the docker hub link.
 
 The images contains:
   * Kafka, Spark and Cassandra;
