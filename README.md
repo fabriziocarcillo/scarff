@@ -10,7 +10,7 @@ A Docker image containing the tools needed to run a streaming fraud detection de
 https://hub.docker.com/r/fabriziocarcillo/scarff/
 
 You can follow the tutorial here:
-[![ScreenShot](http://img.youtube.com/vi/GaG9J5MvfD0/0.jpg](https://www.youtube.com/embed/GaG9J5MvfD0")
+[![ScreenShot](http://img.youtube.com/vi/GaG9J5MvfD0/0.jpg)](https://www.youtube.com/embed/GaG9J5MvfD0")
 
 or just follow the commands of the docker hub link.
 
