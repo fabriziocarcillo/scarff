@@ -9,7 +9,8 @@ At the core of SCARFF there is a Spark application and here we present its imple
 A Docker image containing the tools needed to run a streaming fraud detection demo can be found in:
 https://hub.docker.com/r/fabriziocarcillo/scarff/
 
-You can follow the tutorial https://www.youtube.com/watch?v=GaG9J5MvfD0 or just follow the commands of the docker hub link.
+You can follow the tutorial here:
+[![Alt text for your video](https://i.ytimg.com/vi/GaG9J5MvfD0/1.jpg?time=1485954219636)](https://www.youtube.com/watch?v=GaG9J5MvfD0) or just follow the commands of the docker hub link.
 
 The images contains:
   * Kafka, Spark and Cassandra;
